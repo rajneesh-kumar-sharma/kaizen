@@ -1,4 +1,4 @@
-# Project Kaizen
+# Project Kaizen `(Continuous Improvement)`
 My daily 1 % tasks
 
 ### July 5 2017
